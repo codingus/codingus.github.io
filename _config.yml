@@ -1,5 +1,5 @@
-title: 科丁格斯
-author: codingus
+title: 注音小古文
+author: ChengZhenYu
 email: codingus@163.com
 description: > # this means to ignore newlines until "show_exerpts:"
   Write an awesome description for your new site here. You can edit this
@@ -12,8 +12,8 @@ show_excerpts: false # set to true to show excerpts on the homepage
 sass:
   sass_dir: _sass
 plainwhite:
-  name: 科丁格斯
-  tagline: hello, i'm codingus.
+  name: 注音小古文
+  tagline: 联系方式：codingus@163.com
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
 
